@@ -69,3 +69,7 @@ button:last-of-type {
     color: violet;
     background-color: white;
 }
+
+* {
+    font-family: cursive;
+}
